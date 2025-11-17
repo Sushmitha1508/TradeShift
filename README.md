@@ -1,6 +1,6 @@
 # TradeShift — Real-Time Stock Trading App 
 
-**Live Demo**: https://tradeshift-sushmitha.vercel.app (coming soon after deployment)  
+**Live Demo**: https://tradeshift.app (coming soon after deployment)  
 **GitHub**: https://github.com/Sushmitha1508/TradeShift
 
 
