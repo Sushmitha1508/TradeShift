@@ -1,0 +1,14 @@
+﻿# Node
+node_modules/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Java
+target/
+backend/target/
+*.log
+.idea/
+*.iml
+.DS_Store
+.env
