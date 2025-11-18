@@ -25,4 +25,3 @@ A **full-stack stock trading platform** built with real-time price updates, port
 | Real-time   | Finnhub WebSocket API                         |
 | Auth        | JWT (JSON Web Tokens)                         |
 
-### Project Structure
